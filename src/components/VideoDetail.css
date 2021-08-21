@@ -1,0 +1,31 @@
+.selected-card {
+    margin-top: 1rem;
+}
+.selected-card-player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selected-card-info {
+    border-bottom: 1px solid #3d3d3d;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.vid-title {
+    font-size: 1rem;
+}
+
+.vid-info {
+    font-size: 0.9rem;
+    color: #aaaaaa;
+}
+
+/* desktop styles */
+@media screen and (min-width: 700px) {
+    .selected-player {
+        width: 64vw;
+        height: 36vh;
+    }
+}

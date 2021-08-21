@@ -1,0 +1,22 @@
+body {
+	background-color: #212121;
+	color: white;
+	font-family: "Noto Sans", sans-serif;
+}
+
+/* desktop styles */
+@media screen and (min-width: 900px) {
+	.main-container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.video-section {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}

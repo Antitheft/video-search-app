@@ -9,3 +9,5 @@ _Built using React JS_
 ## Preview
 
 ![video search gif](video-search-preview.gif)
+
+[Live Preview](https://dazzling-fermi-f98827.netlify.app/)

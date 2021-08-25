@@ -8,4 +8,4 @@ _Built using React JS_
 
 ## Preview
 
-![video search gif](video-search-gif.gif)
+![video search gif](video-search-preview.gif)

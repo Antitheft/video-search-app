@@ -8,6 +8,8 @@ _Built using React JS_
 
 ## Preview
 
+[Live Preview](https://video-search-app-antitheft.netlify.app/)
+
 ![video search gif](video-search-preview.gif)
 
-[Live Preview](https://dazzling-fermi-f98827.netlify.app/)
+

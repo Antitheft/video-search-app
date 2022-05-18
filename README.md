@@ -1,4 +1,4 @@
-# video-search-app
+# Video Search App
 
 ## Description
 
